@@ -10,5 +10,11 @@
     <h1>Hello World!</h1>
 
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae eius quia reprehenderit nisi, nam laborum vel consequatur mollitia incidunt commodi? Similique animi atque suscipit, impedit qui nostrum! Non, omnis? Corrupti?</p>
+
+    <ul>
+        <li>Alif Maulidanar</li>
+        <li>Nanda Hamidah</li>
+        <li>JADIAN</li>
+    </ul>
 </body>
 </html>
